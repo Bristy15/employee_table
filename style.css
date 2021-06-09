@@ -1,0 +1,28 @@
+
+*{
+	margin : 0:
+}
+.header{
+	background-color : green;
+	border-bottom-style : double;
+	color: white;
+	
+	
+}
+table{
+	 font-family: tahoma;
+	padding: 20px;
+   text-align: center;
+    /* border: 5px solid black; */
+  border-collapse: collapse;
+  
+   
+   
+   width:100%;
+   
+}
+td,th{
+ border: 3px solid black;
+  border-collapse: collapse; 
+  padding: 8px;
+}
